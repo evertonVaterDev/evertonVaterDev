@@ -1,8 +1,11 @@
 # Olá Pessoal 👋
 
-Meu nome é Everton, mas pode me chamar de Jess, trabalho como desenvolvedora Front-end desde 2015 e sou apaixonada por programar e compartilhar conhecimento, experiências e estudos. 
+Meu nome é Everton, sou
+Baiano, apreciador de series e filmes, amante de jogos de RPG e casual degustador do bolo de massa com vatapá e camarão, frito no dendê vulgo acarajé.
 
-Esse perfil foi criado para adicionar todos os projetos desenvolvidos durante o meu aprendizado na Cubos Academy
+Sou apaixonado por programar e compartilhar conhecimento, experiências e estudos, no fim de 2022 eu resolvi seguir meu sonho de ingressar na área de tecnologia e em janeiro de 2023 iniciei meus estudos em Desenvolvimento de Software Full Stack na Cubos Academy.
+
+Tenho Interesse em atuar como Desenvolvedor Web back-end, front-end ou full stack, Esse perfil foi criado para adicionar todos os projetos desenvolvidos durante o meu aprendizado na Cubos Academy
 
 ### Para me encontrar:
 
