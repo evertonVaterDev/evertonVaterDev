@@ -26,7 +26,7 @@ Tenho Interesse em atuar como Desenvolvedor Web back-end, front-end ou full stac
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![REACT](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
->Vá e Vença
+>Vi veri veniversum vivus vici
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonVaterDev)](https://github.com/evertonVaterDev/)
